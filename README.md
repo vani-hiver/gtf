@@ -3,12 +3,23 @@
 
 
 
-These scripts include basic ciphers coded in python. The first three scripts have some errors in them which you will need to debug.
+These scripts include basic ciphers coded in python and have some errors in them which you will need to debug.
+
+### Flow: 
+
+Debug the following:
+- script1.py 
+- script2.py
+- script3.py
 
 After you have debugged and got output for the first 3 scripts, you will have to combine all three together to get a single value which will be passed as an input to the final script.
 
-After getting the output you will get a link (only if your output is correct) where you will have to find the flag.
+Get outputs for all three and combine them as: 
+> output_script1 + output_script2 + output_script3
 
+Supply this combined output into script4.py.
+
+After getting the output you will get a link (only if your output is correct) where you will have to find the flag.
 
 
 ## How will you get to know what the flag is?
